@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="80" viewBox="0 0 160 80" role="img" aria-label="Provider">
+  <rect width="160" height="80" rx="12" fill="#2D1454"/>
+  <rect x="16" y="20" width="128" height="40" rx="8" fill="#FFD700" opacity="0.25"/>
+  <text x="80" y="48" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="16" font-weight="700">PROVIDER</text>
+</svg>
